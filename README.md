@@ -1,2 +1,2 @@
 # ScreenScore
-Yet to update
+A movie information web app
