@@ -23,12 +23,12 @@ a > span:hover {
     color: yellow;
 }
 
-.header__icon {
+.header_icon {
     width: 150px;
     cursor: pointer;
 }
 
-.user__avatar {
+.user_avatar {
     font-size: 2rem;
 }
 
